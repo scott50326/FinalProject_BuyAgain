@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+ table {
+  margin: auto; 
+  width: 70% 
+  }
+  
+ #atitle { 
+ background-color:lightgray; }
+ 
+ #productListTitle{
+ margin: auto;
+ font-size: 25px ;
+ font-weight: bold;
+ text-align: center; 
+ }
+ 
+
+#showarticle{
+border-collapse: collapse;
+box-shadow: 1px 1px 1px 1px #cccccc
+}
+
+#sort{
+border-collapse: separate;
+}
+.td1{
+border:gray 1px solid;
+width:100px;
+border-radius: 4px;
+box-shadow: 1px 1px 1px 1px #cccccc
+}
+
