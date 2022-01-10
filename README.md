@@ -19,9 +19,9 @@
 ![image](https://github.com/scott50326/FinalProject_BuyAgain/blob/main/src/main/webapp/WEB-INF/Buy_again/images/164179460747.jpg)
 申請成功等待處理
 ![image](https://github.com/scott50326/FinalProject_BuyAgain/blob/main/src/main/webapp/WEB-INF/Buy_again/images/1641797489720.jpg)
-管理員收到送修申請管理頁面
+管理員收到送修申請，可以到管理頁面操作商品的送修進度
 ![image](https://github.com/scott50326/FinalProject_BuyAgain/blob/main/src/main/webapp/WEB-INF/Buy_again/images/1641797534776.jpg)
-管理員產品保固管理頁面
-![image](https://github.com/scott50326/FinalProject_BuyAgain/blob/main/src/main/webapp/WEB-INF/Buy_again/images/641797513107.jpg)
+管理員產品保固管理頁面，可以操作延長保固日(不能小於保固起始日)、及註銷保固(會寄送通知信給客戶)
+![image](https://github.com/scott50326/FinalProject_BuyAgain/blob/main/src/main/webapp/WEB-INF/Buy_again/images/1641797513107.jpg)
 
 
